@@ -1,6 +1,6 @@
 # Botanic Vehicle
 
-Trabalho implementado na intituição de ensino UNIVEM(Centro Universitário Eurípides de Marília) cursando Bacherel em Ciência da Computação.
+Trabalho implementado na intituição de ensino UNIVEM (Centro Universitário Eurípides de Marília) cursando Bacherel em Ciência da Computação.
 
 ## Instalação
 
