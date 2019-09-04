@@ -17,4 +17,3 @@ Trabalho implementado na intituição de ensino UNIVEM (Centro Universitário Eu
 
 `pip3 install opencv-python --user`
 
-
