@@ -16,4 +16,8 @@ public:
 	unsigned getWestSide() const noexcept;
 	unsigned getEastSide() const noexcept;
 	unsigned getSouthSide() const noexcept;
+	void	 setRightSideVel() const noexcept;
+	void	 setLeftSideVel() const noexcept; 
+		
+	int convert() const noexcept;
 };

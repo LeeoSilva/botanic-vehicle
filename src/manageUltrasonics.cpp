@@ -10,3 +10,8 @@ unsigned manageUltrasonics::getWestSide();
 unsigned manageUltrasonics::getEastSide();
 unsigned manageUltrasonics::getSouthSide();
 
+void	 manageUltrasonics::setRightSideVel() const noexcept;
+void	 manageUltrasonics::setLeftSideVel() const noexcept; 
+	
+int convert() const noexcept;
+
